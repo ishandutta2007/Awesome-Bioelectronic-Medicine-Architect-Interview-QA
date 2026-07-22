@@ -1,6 +1,10 @@
-# Awesome Bioelectronic Medicine Architect Interview Q&A
+# 🧠⚡ Awesome Bioelectronic Medicine Architect Interview Q&A
 
-A comprehensive, community-curated collection of **185+ interview questions and answers** for **Bioelectronic Medicine Architect** roles — professionals who design implantable and wearable neuromodulation devices (vagus nerve stimulators, spinal cord stimulators, closed-loop bioelectronic therapeutics) that read and write to the nervous system to treat disease, sitting at the intersection of electrical engineering, neuroscience, materials science, and medical device regulation.
+<p align="center">
+  <img src="./assets/banner.svg" alt="Bioelectronic Medicine Banner" width="100%" />
+</p>
+
+🌟 A comprehensive, community-curated collection of **185+ interview questions and answers** for **Bioelectronic Medicine Architect** roles — professionals who design implantable and wearable neuromodulation devices (vagus nerve stimulators, spinal cord stimulators, closed-loop bioelectronic therapeutics) that read and write to the nervous system to treat disease, sitting at the intersection of electrical engineering, neuroscience, materials science, and medical device regulation.
 
 ## 📌 Overview
 
